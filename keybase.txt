@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/al4
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexforb.es
+  * I am al4 (https://keybase.io/al4) on keybase.
+  * I have a public key ASATdXQK4ImDYfn_7IAojE08T4AVYJAXEtAiGjQSopbp9Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101011a241b17faab0e85133d14865aa396029a118a3fef371670e300bd118489b90a",
+            "host": "keybase.io",
+            "kid": "01201375740ae0898361f9ffec80288c4d3c4f801560901712d0221a3412a296e9f40a",
+            "uid": "2dbed6eb7379c6fb75481459f33cd919",
+            "username": "al4"
+        },
+        "service": {
+            "hostname": "alexforb.es",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494930013,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494929999,
+        "hash": "d0e0ce0365bfb6e1e6b9e063bf41025cdd22369edb1f0ef7098d85a6141b1cfcc6c778e85ca9c8fb35f55731b1efba9a7f818974077e406e1f3c6dc6261ef1e6",
+        "seqno": 1087118
+    },
+    "prev": "cc19d7cd2398634e07102f380f07d99ddc5c1afc0efc9916266ffc57c82564f0",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE3V0CuCJg2H5/+yAKIxNPE+AFWCQFxLQIho0EqKW6fQKp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDExYTI0MWIxN2ZhYWIwZTg1MTMzZDE0ODY1YWEzOTYwMjlhMTE4YTNmZWYzNzE2NzBlMzAwYmQxMTg0ODliOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTM3NTc0MGFlMDg5ODM2MWY5ZmZlYzgwMjg4YzRkM2M0ZjgwMTU2MDkwMTcxMmQwMjIxYTM0MTJhMjk2ZTlmNDBhIiwidWlkIjoiMmRiZWQ2ZWI3Mzc5YzZmYjc1NDgxNDU5ZjMzY2Q5MTkiLCJ1c2VybmFtZSI6ImFsNCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWxleGZvcmIuZXMiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMiJ9LCJjdGltZSI6MTQ5NDkzMDAxMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk0OTI5OTk5LCJoYXNoIjoiZDBlMGNlMDM2NWJmYjZlMWU2YjllMDYzYmY0MTAyNWNkZDIyMzY5ZWRiMWYwZWY3MDk4ZDg1YTYxNDFiMWNmY2M2Yzc3OGU4NWNhOWM4ZmIzNWY1NTczMWIxZWZiYTlhN2Y4MTg5NzQwNzdlNDA2ZTFmM2M2ZGM2MjYxZWYxZTYiLCJzZXFubyI6MTA4NzExOH0sInByZXYiOiJjYzE5ZDdjZDIzOTg2MzRlMDcxMDJmMzgwZjA3ZDk5ZGRjNWMxYWZjMGVmYzk5MTYyNjZmZmM1N2M4MjU2NGYwIiwic2Vxbm8iOjIzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQC/H8xBEFnopbyBIHbkT2OkgfyGaSG54o+CSUtUS7JvA4sMALQ09Vrq9guGAqQ+sOYbKld1OdMFYfM1JjJ2BFwioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD3c9Wvl38fi/3A0SG7cEQxYqukvJMXiiIzUyMfJiaxsKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/al4
+
+==================================================================
